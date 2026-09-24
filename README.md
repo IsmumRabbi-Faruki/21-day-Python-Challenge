@@ -11,9 +11,7 @@ Each day's work is organized into its own dedicated folder containing the source
 * `day01/` - Basics, variables, and data types
 * `day02/` - Conditional logic and loops
 * `day03/` - Functions, scope, and arguments
-* ... *(update as you progress)*
-
----
+* 
 
 ## 📈 Progress Tracker
 
