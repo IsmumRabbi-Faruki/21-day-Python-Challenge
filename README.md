@@ -9,14 +9,14 @@ Welcome to my **21-Day Python Challenge** repository! This repo tracks my daily 
 Each day's work is organized into its own dedicated folder containing the source code and notes:
 
 * `Day01/` - Setup, Basics, Variables, Data Types, Type Casting
-* `day02/` - Conditional logic and loops
+* `Day02/` - Operators, if, if-else, nested condiotionals.
 * `day03/` - Functions, scope, and arguments
 * 
 
 ## 📈 Progress Tracker
 
 - [x] **Day 1:** Setup + Basics
-- [ ] **Day 2:** Control Flow (If/Else & Loops)
+- [x] **Day 2:** Operators and Control Flow
 - [ ] **Day 3:** Data Structures (Lists & Tuples)
 - [ ] **Day 4:** Dictionaries & Sets
 - [ ] **Day 5:** Functions & Lambda Expressions
