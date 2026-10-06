@@ -11,14 +11,14 @@ Each day's work is organized into its own dedicated folder containing the source
 * `Day01/` - Setup, Basics, Variables, Data Types, Type Casting
 * `Day02/` - Operators, if, if-else, nested condiotionals.
 * `Day03/` - for , while , break , continue , range() , nested loops
-* 
+* `Day04/` - String methods, slicing, f-strings, list indexing, slicing, methods (append, sort, comprehension)
 
 ## 📈 Progress Tracker
 
 - [x] **Day 1:** Setup + Basics
 - [x] **Day 2:** Operators and Control Flow
 - [x] **Day 3:** Loops
-- [ ] **Day 4:** Dictionaries & Sets
+- [x] **Day 4:** Strings and Lists
 - [ ] **Day 5:** Functions & Lambda Expressions
 - [ ] **Day 6:** File Handling (Read/Write)
 - [ ] **Day 7:** Error and Exception Handling
