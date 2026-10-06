@@ -12,6 +12,7 @@ Each day's work is organized into its own dedicated folder containing the source
 * `Day02/` - Operators, if, if-else, nested condiotionals.
 * `Day03/` - for , while , break , continue , range() , nested loops
 * `Day04/` - String methods, slicing, f-strings, list indexing, slicing, methods (append, sort, comprehension)
+* `Day05/` - Tuples, Sets, Dictionaries (keys/values, methods, comprehensions)
 
 ## 📈 Progress Tracker
 
@@ -19,7 +20,7 @@ Each day's work is organized into its own dedicated folder containing the source
 - [x] **Day 2:** Operators and Control Flow
 - [x] **Day 3:** Loops
 - [x] **Day 4:** Strings and Lists
-- [ ] **Day 5:** Functions & Lambda Expressions
+- [x] **Day 5:** Tuples,Sets,Dictionary
 - [ ] **Day 6:** File Handling (Read/Write)
 - [ ] **Day 7:** Error and Exception Handling
 - [ ] **Day 8:** Object-Oriented Programming (Classes)
