@@ -1,3 +1,4 @@
+# lists are ordered and changeable
 list1 = ["apple", "banana", "cherry"]
 print(list1)
 print(list1[1])  # lists are indexed
